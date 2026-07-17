@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>NOVA Studio | Digital Agency</title>
+
+<meta name="description" content="NOVA Studio erstellt moderne Webseiten, digitale Produkte und kreative Markenauftritte.">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<!-- Navigation -->
+
+<header>
+
+<nav>
+
+<div class="logo">
+NOVA<span>.</span>
+</div>
+
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+<li><a href="#services">Services</a></li>
+<li><a href="#work">Work</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+
+<div class="menu">
+☰
+</div>
+
+
+</nav>
+
+</header>
+
+
+
+
+<!-- Hero -->
+
+<section id="home" class="hero">
+
+
+<div class="hero-content">
+
+
+<p class="small-title">
+DIGITAL CREATIVE AGENCY
+</p>
+
+
+<h1>
+
+We create
+<br>
+
+<span>digital experiences</span>
+
+</h1>
+
+
+
+<p class="intro">
+
+Wir entwickeln moderne Webseiten,
+digitale Marken und kreative Lösungen,
+die Unternehmen wachsen lassen.
+
+</p>
+
+
+
+<a href="#contact" class="button">
+
+Start Project
+
+</a>
+
+
+
+</div>
+
+
+<div class="hero-circle"></div>
+
+
+</section>
+
+
+
+
+
+<!-- Services -->
+
+
+<section id="services" class="services">
+
+
+<div class="section-title">
+
+<p>
+OUR SERVICES
+</p>
+
+<h2>
+Was wir machen
+</h2>
+
+</div>
+
+
+
+<div class="service-grid">
+
+
+
+<div class="service-card">
+
+<div class="icon">
+01
+</div>
+
+<h3>
+Web Design
+</h3>
+
+<p>
+Moderne, schnelle und einzigartige Webseiten mit perfekter Nutzererfahrung.
+</p>
+
+</div>
+
+
+
+
+<div class="service-card">
+
+<div class="icon">
+02
+</div>
+
+<h3>
+Development
+</h3>
+
+<p>
+Professionelle Entwicklung mit modernen Technologien.
+</p>
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+<div class="icon">
+03
+</div>
+
+<h3>
+Brand Identity
+</h3>
+
+<p>
+Wir erschaffen Marken mit Wiedererkennung und Persönlichkeit.
+</p>
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+<div class="icon">
+04
+</div>
+
+<h3>
+SEO & Marketing
+</h3>
+
+<p>
+Mehr Sichtbarkeit und bessere digitale Ergebnisse.
+</p>
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- Work / Projekte -->
+
+
+<section id="work" class="work">
+
+
+<div class="section-title">
+
+<p>
+SELECTED WORK
+</p>
+
+<h2>
+Unsere Projekte
+</h2>
+
+</div>
+
+
+
+<div class="projects">
+
+
+<div class="project">
+
+<div class="project-image">
+</div>
+
+<h3>
+Creative Website
+</h3>
+
+<p>
+Web Design / Development
+</p>
+
+</div>
+
+
+
+
+<div class="project">
+
+<div class="project-image second">
+</div>
+
+<h3>
+Digital Brand
+</h3>
+
+<p>
+Branding / Strategy
+</p>
+
+</div>
+
+
+
+
+
+<div class="project">
+
+<div class="project-image third">
+</div>
+
+<h3>
+E-Commerce
+</h3>
+
+<p>
+Shop Design / UX
+</p>
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<!-- About -->
+
+
+<section id="about" class="about">
+
+
+<div>
+
+<p class="small-title">
+ABOUT US
+</p>
+
+
+<h2>
+Wir verbinden Design
+und Technologie.
+</h2>
+
+
+<p>
+
+NOVA Studio entwickelt digitale Lösungen
+für Unternehmen, die online professionell
+auftreten möchten.
+
+</p>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+<!-- Contact -->
+
+
+<section id="contact" class="contact">
+
+
+<h2>
+Bereit für dein Projekt?
+</h2>
+
+
+<p>
+Erzähle uns von deiner Idee.
+</p>
+
+
+<a class="button">
+Kontakt aufnehmen
+</a>
+
+
+</section>
+
+
+
+
+
+
+<footer>
+
+
+<p>
+© 2026 NOVA Studio. All Rights Reserved.
+</p>
+
+
+</footer>
+
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
